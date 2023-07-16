@@ -98,10 +98,10 @@ cmp.setup {
     fields = { "kind", "abbr", "menu" },
     format = function(entry, vim_item)
       -- Kind icons
-      vim_item.kind = string.format("%s", kind_icons[vim_item.kind])
-      -- vim_item.kind = string.format('%s %s', kind_icons[vim_item.kind], vim_item.kind) -- This concatonates the icons with the name of the item kind
+      -- vim_item.kind = string.format("%s", kind_icons[vim_item.kind])
+      vim_item.kind = string.format('%s %s', kind_icons[vim_item.kind], vim_item.kind) -- This concatonates the icons with the name of the item kind
       vim_item.menu = ({
-        luasnip = "[Snippet]",
+        luasnip = "[LuaSnippet]",
         buffer = "[Buffer]",
         path = "[Path]",
       })[entry.source.name]
@@ -121,7 +121,7 @@ cmp.setup {
     documentation = cmp.config.window.bordered(),
   },
   experimental = {
-    ghost_text = false,
+    ghost_text = true,
     native_menu = false,
   },
 }
