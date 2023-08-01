@@ -82,7 +82,7 @@ return packer.startup(function(use)
     run = ":TSUpdate",
   }
   use "HiPhish/rainbow-delimiters.nvim"
-  use "nvim-treesitter/playground"
+  --use "nvim-treesitter/playground"
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
