@@ -1,0 +1,202 @@
+
+11:16:40.094 [info] Loading 166 CA(s) from :otp store
+
+11:16:40.286 id=1 [debug] handled request client -> server initialize in 123ms
+
+11:16:40.293 [debug] sent notification server -> client window/logMessage
+
+11:16:40.305 [debug] sent notification server -> client window/logMessage
+
+11:16:40.305 [debug] sent notification server -> client window/logMessage
+
+11:16:40.305 [info] [extension] Credo initializing with options %NextLS.InitOpts.Extensions.Credo{enable: true, cli_options: []}
+
+11:16:40.313 [debug] sent notification server -> client $/progress
+
+11:16:40.371 [debug] sent notification server -> client window/logMessage
+
+11:16:40.371 [info] Beginning DB migration...
+
+11:16:40.386 [debug] sent notification server -> client window/logMessage
+
+11:16:40.386 [info] Database is on the latest version: 5
+
+11:16:40.386 [debug] sent notification server -> client window/logMessage
+
+11:16:40.387 [info] Finished DB migration...
+
+11:16:40.388 [debug] sent notification server -> client window/logMessage
+
+11:16:40.388 [info] Using `elixir` found at: /usr/local/bin/elixir
+
+11:16:40.389 [debug] handled notification client -> server initialized in 99ms
+
+11:16:40.396 [debug] handled notification client -> server textDocument/didOpen in 6ms
+
+11:16:41.415 [debug] sent notification server -> client window/logMessage
+
+11:16:41.415 [info] Connected to node nextls-runtime-1706462200386817250@MBP16II
+
+11:16:41.518 [debug] sent notification server -> client $/progress
+
+11:16:41.520 [debug] sent notification server -> client window/logMessage
+
+11:16:41.522 [debug] sent notification server -> client $/progress
+
+11:16:41.558 [debug] sent notification server -> client window/logMessage
+
+11:16:41.558 [info] Compiled anonymous!
+
+11:16:41.561 [debug] sent notification server -> client $/progress
+
+11:16:42.322 [debug] handled notification client -> server textDocument/didChange in 6ms
+
+11:16:42.749 [debug] handled notification client -> server textDocument/didChange in 254µs
+
+11:16:42.919 [debug] handled notification client -> server textDocument/didChange in 231µs
+
+11:16:43.410 [debug] handled notification client -> server textDocument/didChange in 216µs
+
+11:16:47.289 [debug] handled notification client -> server textDocument/didChange in 311µs
+
+11:16:50.801 [debug] handled notification client -> server textDocument/didChange in 540µs
+
+11:16:50.949 [debug] handled notification client -> server textDocument/didChange in 366µs
+
+11:16:51.301 [debug] handled notification client -> server textDocument/didChange in 290µs
+
+11:16:51.449 [debug] handled notification client -> server textDocument/didChange in 389µs
+
+11:16:53.824 [debug] handled notification client -> server textDocument/didChange in 295µs
+
+11:16:53.974 [debug] handled notification client -> server textDocument/didChange in 334µs
+
+11:16:55.965 [debug] handled notification client -> server textDocument/didChange in 270µs
+
+11:16:56.111 [debug] handled notification client -> server textDocument/didChange in 285µs
+
+11:16:57.499 [debug] handled notification client -> server textDocument/didChange in 280µs
+
+11:16:57.646 [debug] handled notification client -> server textDocument/didChange in 327µs
+
+11:16:58.240 [debug] handled notification client -> server textDocument/didChange in 224µs
+
+11:16:58.390 [debug] handled notification client -> server textDocument/didChange in 389µs
+
+11:17:02.219 [debug] handled notification client -> server textDocument/didChange in 298µs
+
+11:17:02.372 [debug] handled notification client -> server textDocument/didChange in 332µs
+
+11:17:02.522 [debug] handled notification client -> server textDocument/didChange in 197µs
+
+11:17:02.693 [debug] handled notification client -> server textDocument/didChange in 267µs
+
+11:17:02.859 [debug] handled notification client -> server textDocument/didChange in 265µs
+
+11:17:03.038 [debug] handled notification client -> server textDocument/didChange in 263µs
+
+11:17:04.047 [debug] handled notification client -> server textDocument/didChange in 212µs
+
+11:17:04.665 [debug] handled notification client -> server textDocument/didChange in 263µs
+
+11:17:05.243 [debug] handled notification client -> server textDocument/didChange in 280µs
+
+11:17:10.234 [debug] handled notification client -> server textDocument/didChange in 270µs
+
+11:17:10.380 [debug] handled notification client -> server textDocument/didChange in 350µs
+
+11:17:12.264 [debug] handled notification client -> server textDocument/didChange in 288µs
+
+11:17:12.411 [debug] handled notification client -> server textDocument/didChange in 331µs
+
+11:17:12.884 [debug] handled notification client -> server textDocument/didChange in 267µs
+
+11:17:13.288 [debug] handled notification client -> server textDocument/didChange in 268µs
+
+11:17:13.433 [debug] handled notification client -> server textDocument/didChange in 205µs
+
+11:17:13.826 [debug] handled notification client -> server textDocument/didChange in 357µs
+
+11:17:13.975 [debug] handled notification client -> server textDocument/didChange in 329µs
+
+11:17:14.709 [debug] handled notification client -> server textDocument/didChange in 270µs
+
+11:17:14.860 [debug] handled notification client -> server textDocument/didChange in 331µs
+
+11:17:15.551 [debug] handled notification client -> server textDocument/didChange in 283µs
+
+11:17:15.705 [debug] handled notification client -> server textDocument/didChange in 326µs
+
+11:17:16.892 [debug] handled notification client -> server textDocument/didChange in 333µs
+
+11:17:29.828 [debug] handled notification client -> server textDocument/didChange in 227µs
+
+11:17:29.979 [debug] handled notification client -> server textDocument/didChange in 350µs
+
+11:17:30.374 [debug] handled notification client -> server textDocument/didChange in 265µs
+
+11:17:30.524 [debug] handled notification client -> server textDocument/didChange in 335µs
+
+11:26:18.860 [info] Loading 166 CA(s) from :otp store
+
+11:26:19.045 id=1 [debug] handled request client -> server initialize in 121ms
+
+11:26:19.053 [debug] sent notification server -> client window/logMessage
+
+11:26:19.067 [debug] sent notification server -> client window/logMessage
+
+11:26:19.067 [debug] sent notification server -> client window/logMessage
+
+11:26:19.067 [info] [extension] Credo initializing with options %NextLS.InitOpts.Extensions.Credo{enable: true, cli_options: []}
+
+11:26:19.073 [debug] sent notification server -> client $/progress
+
+11:26:19.130 [debug] sent notification server -> client window/logMessage
+
+11:26:19.130 [info] Beginning DB migration...
+
+11:26:19.140 [debug] sent notification server -> client window/logMessage
+
+11:26:19.140 [info] Database is on the latest version: 5
+
+11:26:19.140 [debug] sent notification server -> client window/logMessage
+
+11:26:19.141 [info] Finished DB migration...
+
+11:26:19.141 [debug] sent notification server -> client window/logMessage
+
+11:26:19.141 [info] Using `elixir` found at: /usr/local/bin/elixir
+
+11:26:19.142 [debug] handled notification client -> server initialized in 92ms
+
+11:26:19.152 [debug] handled notification client -> server textDocument/didOpen in 10ms
+
+11:26:20.168 [debug] sent notification server -> client window/logMessage
+
+11:26:20.168 [info] Connected to node nextls-runtime-1706462779141033204@MBP16II
+
+11:26:20.294 [debug] sent notification server -> client $/progress
+
+11:26:20.295 [debug] sent notification server -> client window/logMessage
+
+11:26:20.297 [debug] sent notification server -> client $/progress
+
+11:26:20.333 [debug] sent notification server -> client window/logMessage
+
+11:26:20.333 [info] Compiled anonymous!
+
+11:26:20.335 [debug] sent notification server -> client $/progress
+
+11:26:24.275 [debug] handled notification client -> server textDocument/didChange in 6ms
+
+11:26:24.754 [debug] handled notification client -> server textDocument/didChange in 251µs
+
+11:26:24.995 [debug] handled notification client -> server textDocument/didChange in 222µs
+
+11:26:49.923 [debug] handled notification client -> server textDocument/didChange in 295µs
+
+11:27:00.286 [debug] handled notification client -> server textDocument/didChange in 279µs
+
+11:27:01.070 [debug] handled notification client -> server textDocument/didChange in 495µs
+
+11:27:01.221 [debug] handled notification client -> server textDocument/didChange in 428µs
